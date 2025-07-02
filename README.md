@@ -28,7 +28,6 @@ You can install the dependencies using pip:
 ```bash
 pip install -r requirements.txt
 ```
-```
 
 ## Usage
 
@@ -37,7 +36,6 @@ pip install -r requirements.txt
 ```bash
 python3 jobfinder.py
 ```
-
 
 ## Notes
 
