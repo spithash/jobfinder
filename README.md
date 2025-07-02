@@ -29,7 +29,7 @@ You can install the dependencies using pip:
 pip install -r requirements.txt
 ```
 ```
-```
+
 ## Usage
 
 1. Run the script:
@@ -39,7 +39,6 @@ python3 jobfinder.py
 ```
 
 
-```
 ## Notes
 
 - This script scrapes data from [jobfind.gr](https://www.jobfind.gr) and depends on the website's current structure. Changes to the website may require updates to the scraper.
@@ -55,5 +54,3 @@ python3 jobfinder.py
 - Use responsibly and avoid making too many rapid requests to respect the website's resources.
 ```
 
-```
-```
