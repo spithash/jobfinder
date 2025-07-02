@@ -1,4 +1,4 @@
-# JobFind.gr Command Line Job Finder
+# jobfind-cli Command Line Job Finder
 jobfind.gr CLI tool that displays job openings in the terminal.
 
 A simple Python script to scrape job listings from [JobFind.gr](https://www.jobfind.gr).  
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 1. Run the script:
 
 ```bash
-python3 jobfinder.py
+python3 jobfind-cli.py
 ```
 
 ## Notes
