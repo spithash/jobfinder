@@ -1,5 +1,5 @@
-# JobFind.gr Scraper
-jobfind.gr CLI tool that displays job openings in the linux terminal
+# JobFind.gr Command Line Job Finder
+jobfind.gr CLI tool that displays job openings in the terminal.
 
 A simple Python script to scrape job listings from [JobFind.gr](https://www.jobfind.gr).  
 It lets you select job specialties and regions interactively, then fetches and displays job postings with brief descriptions.
