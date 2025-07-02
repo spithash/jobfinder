@@ -34,7 +34,10 @@ pip install -r requirements.txt
 
 ```bash
 python3 jobfinder.py
+```
 
+
+```
 ## Notes
 
 - This script scrapes data from [jobfind.gr](https://www.jobfind.gr) and depends on the website's current structure. Changes to the website may require updates to the scraper.
