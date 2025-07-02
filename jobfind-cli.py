@@ -1,3 +1,7 @@
+# info:   jobfind.gr CLI tool that displays job openings in the terminal
+# author: Stathis Xantinidis
+# github: https://github.com/spithash/
+
 import requests
 from bs4 import BeautifulSoup
 import json
