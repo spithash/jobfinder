@@ -28,3 +28,24 @@ You can install the dependencies using pip:
 ```bash
 pip install -r requirements.txt
 
+## Usage
+
+1. Run the script:
+
+```bash
+python3 jobfinder.py
+
+## Notes
+
+- This script scrapes data from [jobfind.gr](https://www.jobfind.gr) and depends on the website's current structure. Changes to the website may require updates to the scraper.
+
+- Job descriptions are extracted from embedded JSON-LD data when available, providing a cleaner text snippet.
+
+- The script uses simple pagination to count and display job listings, with delays between requests to avoid overwhelming the server.
+
+- Colored output improves readability in terminals that support ANSI escape codes.
+
+- If the script encounters unexpected page structures or network issues, it will try to fail gracefully without crashing.
+
+- Use responsibly and avoid making too many rapid requests to respect the website's resources.
+
