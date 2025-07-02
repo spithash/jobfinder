@@ -51,3 +51,5 @@ python3 jobfind-cli.py
 
 - Use responsibly and avoid making too many rapid requests to respect the website's resources.
 
+## Screenshot
+![Screenshot](https://github.com/spithash/jobfinder/raw/main/screenshot/2025-07-02_14-40.jpeg)
