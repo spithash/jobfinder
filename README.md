@@ -27,7 +27,9 @@ You can install the dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
-
+```
+```
+```
 ## Usage
 
 1. Run the script:
@@ -51,4 +53,7 @@ python3 jobfinder.py
 - If the script encounters unexpected page structures or network issues, it will try to fail gracefully without crashing.
 
 - Use responsibly and avoid making too many rapid requests to respect the website's resources.
+```
 
+```
+```
