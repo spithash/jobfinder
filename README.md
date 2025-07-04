@@ -39,6 +39,8 @@ python3 jobfind-cli.py
 
 ## Notes
 
+- It is for personal use only, and if used commercially, permission from `Jobfind.gr` is required.
+
 - This script scrapes data from `jobfind` and depends on the website's current structure. Changes to the website may require updates to the scraper.
 
 - Job descriptions are extracted from embedded JSON-LD data when available, providing a cleaner text snippet.
